@@ -100,10 +100,6 @@ An AI-powered travel planning app built during my AI internship, designed to tur
 | [sprint-currency_converter](https://github.com/tanisha259/sprint-currency_converter) | A sprint/practice build of the currency converter concept. | HTML |
 
 
-> 💡 *A few repos above don't have a description set on GitHub yet. Add a one-line description to each repo (via the "Edit" gear icon on the repo page) and I can update the table with the real details — much stronger for recruiters than a placeholder.*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
