@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a recent B.Tech graduate in Information Technology with hands-on experience building full-stack and AI-powered applications, gained through internships and independent projects. I enjoy taking a product from idea to a working, deployed application — from designing the backend architecture to shipping a clean, responsive UI.
+I'm a recent B.Tech graduate in Information Technology with hands-on experience building full-stack and AI-powered applications, gained through internships and independent projects. I enjoy taking a product from idea to a working, deployed application from designing the backend architecture to shipping a clean, responsive UI.
 
 I'm currently looking for **Software Developer**, **Full-Stack Developer**, and **Frontend Developer** roles where I can contribute to real products and keep growing as an engineer.
 
@@ -92,28 +92,15 @@ An AI-powered travel planning app built during my AI internship, designed to tur
 
 ---
 
-## 💼 Experience
+## 📂 More Projects
 
-**Software Development / AI Intern** — *[Company Name]*
-*[Month Year] – [Month Year]*
-- [Add a specific contribution, e.g., "Built and shipped features for an internal tool using React and Node.js"]
-- [Add a measurable outcome, e.g., "Reduced page load time by X% through code optimization"]
+| Project | Description | Tech |
+|---|---|---|
+| [Career_Coach](https://github.com/tanisha259/Career_Coach) | An application built to guide users through career planning and development. | JavaScript |
+| [sprint-currency_converter](https://github.com/tanisha259/sprint-currency_converter) | A sprint/practice build of the currency converter concept. | HTML |
 
-**Software Testing Intern** — *[Company Name]*
-*[Month Year] – [Month Year]*
-- [Add a specific contribution, e.g., "Wrote and executed test cases for X application, identifying Y bugs pre-release"]
-- [Add a measurable outcome if available]
 
-> *Fill in your actual internship details here — company names, dates, and 1-2 concrete contributions each. Recruiters weigh this section heavily, so specifics matter more than general descriptions.*
-
----
-
-## 🏆 Achievements
-
-- [Add relevant achievements — e.g., hackathon wins, certifications, academic honors, open-source contributions]
-- [Add a certification — e.g., "AWS Cloud Practitioner" or relevant coursework/certs you've completed]
-
-> *Add 2-4 concrete items here (certifications, hackathons, GPA/honors if strong, competitive programming ranks, etc.). Leave this section out entirely if you'd rather not include placeholders.*
+> 💡 *A few repos above don't have a description set on GitHub yet. Add a one-line description to each repo (via the "Edit" gear icon on the repo page) and I can update the table with the real details — much stronger for recruiters than a placeholder.*
 
 ---
 
