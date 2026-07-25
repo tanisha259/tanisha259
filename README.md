@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Tanisha%20Pandit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20%E2%80%A2%20AI-Powered%20Applications%20%E2%80%A2%20Software%20Engineering&descAlignY=55&descSize=17" width="100%" alt="header banner"/>
+</p>
+
 <h1 align="center">Hi, I'm Tanisha Pandit 👋</h1>
 
 <h3 align="center">Software Developer | Full-Stack Engineer | B.Tech (IT) Graduate</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=560&lines=Recent+B.Tech+Graduate;Software+Developer;Full-Stack+Engineer;AI+Application+Builder" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanisha-pandit-991450292">
@@ -16,13 +24,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:00C9A7&height=3&width=1000" width="100%" alt="divider"/>
+</p>
+
 ## 👋 About Me
 
-I'm a recent B.Tech graduate in Information Technology with hands-on experience building full-stack and AI-powered applications, gained through internships and independent projects. I enjoy taking a product from idea to a working, deployed application from designing the backend architecture to shipping a clean, responsive UI.
+I'm a recent B.Tech graduate in Information Technology with hands-on experience building full-stack and AI-powered applications, gained through internships and independent projects. I enjoy taking a product from idea to a working, deployed application — from designing the backend architecture to shipping a clean, responsive UI.
 
 I'm currently looking for **Software Developer**, **Full-Stack Developer**, and **Frontend Developer** roles where I can contribute to real products and keep growing as an engineer.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:00C9A7&height=3&width=1000" width="100%" alt="divider"/>
+</p>
 
 ## 🛠️ Technical Skills
 
@@ -65,9 +81,15 @@ I'm currently looking for **Software Developer**, **Full-Stack Developer**, and 
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:00C9A7&height=3&width=1000" width="100%" alt="divider"/>
+</p>
+
 ## 🚀 Featured Projects
 
-### [AI Customer Feedback Platform](https://github.com/tanisha259/AI_Customer_Feedback)
+### 🏆 [AI Customer Feedback Platform](https://github.com/tanisha259/AI_Customer_Feedback)
+![Flagship Project](https://img.shields.io/badge/⭐-Flagship%20Project-0077B5?style=flat)
+
 **[Live Demo →](http://ai-customer-feedback-three.vercel.app/)**
 
 A full-stack SaaS platform that automates customer feedback processing, which teams previously had to sort and tag by hand. Built with **Next.js, TypeScript, PostgreSQL, and Prisma**, it ingests feedback from multiple sources and uses AI/RAG-based classification to automatically categorize and tag responses by sentiment and topic. An interactive analytics dashboard (built with **Recharts**) surfaces trends in real time, cutting manual review time by roughly **85%**. The app is designed with a scalable, modular architecture to support growing data volume and additional integrations.
@@ -76,7 +98,7 @@ A full-stack SaaS platform that automates customer feedback processing, which te
 
 ---
 
-### [Zupharm – Pharmaceutical Website](https://zupharma.netlify.app/)
+### 💊 [Zupharm – Pharmaceutical Website](https://zupharma.netlify.app/)
 
 A business-facing website for a pharmaceutical company, built to present products, certifications, and company credibility in a way that builds trust with visitors. The focus was on clean UI/UX, a fully responsive layout, and clear information architecture — from product listings to certification highlights — so the site works as an effective business and marketing tool, not just a static page.
 
@@ -84,7 +106,7 @@ A business-facing website for a pharmaceutical company, built to present product
 
 ---
 
-### [AI Travel Planner](https://github.com/tanisha259/AI-Travel-Planner)
+### ✈️ [AI Travel Planner](https://github.com/tanisha259/AI-Travel-Planner)
 
 An AI-powered travel planning app built during my AI internship, designed to turn a rough set of preferences into a ready-to-use itinerary. It uses AI-driven workflow automation to generate personalized day-by-day travel plans, with voice/AI integration for a more natural planning experience. The goal was to reduce the manual back-and-forth of trip planning into a single guided, intelligent flow.
 
@@ -92,13 +114,28 @@ An AI-powered travel planning app built during my AI internship, designed to tur
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:00C9A7&height=3&width=1000" width="100%" alt="divider"/>
+</p>
+
 ## 📂 More Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | [Career_Coach](https://github.com/tanisha259/Career_Coach) | An application built to guide users through career planning and development. | JavaScript |
+| [claim-vision](https://github.com/tanisha259/claim-vision) | *(No description set yet — add a short summary of what this project does)* | TypeScript |
 | [sprint-currency_converter](https://github.com/tanisha259/sprint-currency_converter) | A sprint/practice build of the currency converter concept. | HTML |
+| [Healthcare Dashboard](https://github.com/tanisha259/Healthcare-_-dashboard) | *(No description set yet — add a short summary of what this dashboard tracks)* | — |
+| [Fitness Tracker](https://github.com/tanisha259/Fitness_-Tracker) | *(No description set yet — add a short summary, e.g. what metrics it tracks)* | — |
+| [Credit Card](https://github.com/tanisha259/Credit-card) | *(No description set yet — add a short summary of what this project does)* | C++ |
+| [Invoice Generator](https://github.com/tanisha259/Invoice-Generator) | *(No description set yet — add a short summary, e.g. what it generates and how)* | C++ |
+| [Task Manager](https://github.com/tanisha259/Task-manager) | *(No description set yet — add a short summary of core features)* | JavaScript |
+| [Prodigy WD Task 1](https://github.com/tanisha259/-PRODIGY-WD-01-) | Web development task completed as part of the Prodigy InfoTech internship program. | JavaScript |
+| [Prodigy WD Task 2](https://github.com/tanisha259/-PRODIGY-WD-02--) | Web development task completed as part of the Prodigy InfoTech internship program. | JavaScript |
 
+> 💡 *A few repos above don't have a description set on GitHub yet. Add a one-line description to each repo (via the "Edit" gear icon on the repo page) and I can update the table with the real details — much stronger for recruiters than a placeholder.*
+
+---
 
 ## 📊 GitHub Stats
 
@@ -106,6 +143,12 @@ An AI-powered travel planning app built during my AI internship, designed to tur
   <img src="https://github-readme-stats.vercel.app/api?username=tanisha259&show_icons=true&theme=default&count_private=true" alt="Tanisha's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha259" alt="Tanisha's GitHub Streak" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanisha259/tanisha259/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
+</p>
+
+> ⚙️ *The animated contribution snake above requires a one-time GitHub Actions setup — see instructions below. Until the workflow runs for the first time, this image will simply appear broken/blank; it won't affect the rest of the README.*
 
 ---
 
@@ -116,3 +159,11 @@ An AI-powered travel planning app built during my AI internship, designed to tur
 - 🌐 [GitHub](https://github.com/tanisha259)
 
 <p align="center"><i>Open to Software Developer, Full-Stack Developer, and Frontend Developer roles — let's connect.</i></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&pause=1500&color=00C9A7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together." alt="Footer Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=100&section=footer" width="100%" alt="footer wave"/>
+</p>
