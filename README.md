@@ -123,17 +123,7 @@ An AI-powered travel planning app built during my AI internship, designed to tur
 | Project | Description | Tech |
 |---|---|---|
 | [Career_Coach](https://github.com/tanisha259/Career_Coach) | An application built to guide users through career planning and development. | JavaScript |
-| [claim-vision](https://github.com/tanisha259/claim-vision) | *(No description set yet — add a short summary of what this project does)* | TypeScript |
 | [sprint-currency_converter](https://github.com/tanisha259/sprint-currency_converter) | A sprint/practice build of the currency converter concept. | HTML |
-| [Healthcare Dashboard](https://github.com/tanisha259/Healthcare-_-dashboard) | *(No description set yet — add a short summary of what this dashboard tracks)* | — |
-| [Fitness Tracker](https://github.com/tanisha259/Fitness_-Tracker) | *(No description set yet — add a short summary, e.g. what metrics it tracks)* | — |
-| [Credit Card](https://github.com/tanisha259/Credit-card) | *(No description set yet — add a short summary of what this project does)* | C++ |
-| [Invoice Generator](https://github.com/tanisha259/Invoice-Generator) | *(No description set yet — add a short summary, e.g. what it generates and how)* | C++ |
-| [Task Manager](https://github.com/tanisha259/Task-manager) | *(No description set yet — add a short summary of core features)* | JavaScript |
-| [Prodigy WD Task 1](https://github.com/tanisha259/-PRODIGY-WD-01-) | Web development task completed as part of the Prodigy InfoTech internship program. | JavaScript |
-| [Prodigy WD Task 2](https://github.com/tanisha259/-PRODIGY-WD-02--) | Web development task completed as part of the Prodigy InfoTech internship program. | JavaScript |
-
-> 💡 *A few repos above don't have a description set on GitHub yet. Add a one-line description to each repo (via the "Edit" gear icon on the repo page) and I can update the table with the real details — much stronger for recruiters than a placeholder.*
 
 ---
 
@@ -148,7 +138,7 @@ An AI-powered travel planning app built during my AI internship, designed to tur
   <img src="https://raw.githubusercontent.com/tanisha259/tanisha259/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
 </p>
 
-> ⚙️ *The animated contribution snake above requires a one-time GitHub Actions setup — see instructions below. Until the workflow runs for the first time, this image will simply appear broken/blank; it won't affect the rest of the README.*
+> ⚙️ *The animated contribution snake above requires a one-time GitHub Actions setup, see instructions below. Until the workflow runs for the first time, this image will simply appear broken/blank; it won't affect the rest of the README.*
 
 ---
 
