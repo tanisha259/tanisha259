@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Tanisha Pandit 👋</h1>
+<h1 align="center">Hi, I'm Tanisha Pandit 👋</h1>
 
-<h3 align="center">Recent Graduate | Aspiring Software Engineer | Full-Stack & AI Enthusiast</h3>
+<h3 align="center">Software Developer | Full-Stack Engineer | B.Tech (IT) Graduate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanisha-pandit-991450292">
@@ -9,69 +9,127 @@
   <a href="mailto:tanishapandit0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/tanisha259">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🎓 About Me
+## 👋 About Me
 
-I'm a **recent graduate in Technology**, passionate about **Software Development, Web Technologies, and Artificial Intelligence**. I enjoy building real-world applications that solve meaningful problems, and I'm actively growing my skills through hands-on projects.
+I'm a recent B.Tech graduate in Information Technology with hands-on experience building full-stack and AI-powered applications, gained through internships and independent projects. I enjoy taking a product from idea to a working, deployed application — from designing the backend architecture to shipping a clean, responsive UI.
 
-- 🌱 Currently exploring AI-powered application development
-- 💻 Focused on Full-Stack Development & Software Engineering
-- 🔨 Learning by building — every project sharpens my problem-solving skills
-- 🤝 Open to entry-level opportunities and collaborations
+I'm currently looking for **Software Developer**, **Full-Stack Developer**, and **Frontend Developer** roles where I can contribute to real products and keep growing as an engineer.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 **Languages**
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Tools & Technologies**
+**Frontend**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Cloud & Deployment**
+
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · Agile Development
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[AI Travel Planner](https://github.com/tanisha259/AI-Travel-Planner)** | AI-powered travel planning app that generates personalized itineraries and recommendations. | TypeScript |
-| **[AI Customer Feedback Analyzer](https://github.com/tanisha259/AI_Customer_Feedback)** | Analyzes customer feedback using Gemini AI for sentiment analysis, with authentication and analytics dashboards. | Next.js 14, NextAuth, Prisma, PostgreSQL, Recharts, Gemini AI |
-| **[Career Coach](https://github.com/tanisha259/Career_Coach)** | An application designed to guide users through career planning and development. | JavaScript |
-| **[Currency Converter](https://github.com/tanisha259/Currency_converter)** | A FastAPI-based currency converter with REST API endpoints for real-time exchange rate lookups, plus a simple web interface. | Python (FastAPI), HTML |
-| **[Codepen-1](https://github.com/tanisha259/Codepen-1)** | A frontend code editor that lets users write and preview HTML, CSS, and JS in real time. | HTML, CSS, JavaScript, React |
-| **[ZuPharm (SPRINT_Pharma)](https://github.com/ITWala2025/SPRINT_Pharma)** | A modern pharmaceutical website built for a clean, user-friendly experience. | JavaScript |
+### [AI Customer Feedback Platform](https://github.com/tanisha259/AI_Customer_Feedback)
+**[Live Demo →](http://ai-customer-feedback-three.vercel.app/)**
+
+A full-stack SaaS platform that automates customer feedback processing, which teams previously had to sort and tag by hand. Built with **Next.js, TypeScript, PostgreSQL, and Prisma**, it ingests feedback from multiple sources and uses AI/RAG-based classification to automatically categorize and tag responses by sentiment and topic. An interactive analytics dashboard (built with **Recharts**) surfaces trends in real time, cutting manual review time by roughly **85%**. The app is designed with a scalable, modular architecture to support growing data volume and additional integrations.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS` `Recharts` `AI / RAG`
 
 ---
 
-### 📊 GitHub Stats
+### [Zupharm – Pharmaceutical Website](https://zupharma.netlify.app/)
+
+A business-facing website for a pharmaceutical company, built to present products, certifications, and company credibility in a way that builds trust with visitors. The focus was on clean UI/UX, a fully responsive layout, and clear information architecture — from product listings to certification highlights — so the site works as an effective business and marketing tool, not just a static page.
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+---
+
+### [AI Travel Planner](https://github.com/tanisha259/AI-Travel-Planner)
+
+An AI-powered travel planning app built during my AI internship, designed to turn a rough set of preferences into a ready-to-use itinerary. It uses AI-driven workflow automation to generate personalized day-by-day travel plans, with voice/AI integration for a more natural planning experience. The goal was to reduce the manual back-and-forth of trip planning into a single guided, intelligent flow.
+
+`TypeScript` `AI Integration` `Workflow Automation`
+
+---
+
+## 💼 Experience
+
+**Software Development / AI Intern** — *[Company Name]*
+*[Month Year] – [Month Year]*
+- [Add a specific contribution, e.g., "Built and shipped features for an internal tool using React and Node.js"]
+- [Add a measurable outcome, e.g., "Reduced page load time by X% through code optimization"]
+
+**Software Testing Intern** — *[Company Name]*
+*[Month Year] – [Month Year]*
+- [Add a specific contribution, e.g., "Wrote and executed test cases for X application, identifying Y bugs pre-release"]
+- [Add a measurable outcome if available]
+
+> *Fill in your actual internship details here — company names, dates, and 1-2 concrete contributions each. Recruiters weigh this section heavily, so specifics matter more than general descriptions.*
+
+---
+
+## 🏆 Achievements
+
+- [Add relevant achievements — e.g., hackathon wins, certifications, academic honors, open-source contributions]
+- [Add a certification — e.g., "AWS Cloud Practitioner" or relevant coursework/certs you've completed]
+
+> *Add 2-4 concrete items here (certifications, hackathons, GPA/honors if strong, competitive programming ranks, etc.). Leave this section out entirely if you'd rather not include placeholders.*
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanisha259&show_icons=true&theme=default&count_private=true" alt="Tanisha's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha259" alt="Tanisha's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisha259&show_icons=true&theme=default&count_private=true" alt="Tanisha's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha259" alt="Tanisha's GitHub Streak" height="165"/>
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- 💼 LinkedIn: [tanisha-pandit](https://www.linkedin.com/in/tanisha-pandit-991450292)
-- 📧 Email: [tanishapandit0@gmail.com](mailto:tanishapandit0@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanisha-pandit-991450292)
+- 📧 [tanishapandit0@gmail.com](mailto:tanishapandit0@gmail.com)
+- 🌐 [GitHub](https://github.com/tanisha259)
 
-<p align="center"><i>"Turning ideas into real-world solutions through code."</i></p>
+<p align="center"><i>Open to Software Developer, Full-Stack Developer, and Frontend Developer roles — let's connect.</i></p>
